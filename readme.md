@@ -5,4 +5,5 @@
 # Fourth git commit -m "added file name" to be committed
 # Fifth repeat the git add again after modifying any file then the aforementioned git commit -m file name
 # sixth  git checkout -b new to branch off from the git master whiling keeping all original content
-# Seventh rm -f .git/index.lock to restart after crash 
+# Seventh rm -f .git/index.lock to restart after crash
+# Eighth git merge master to merge branch with master git
